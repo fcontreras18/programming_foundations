@@ -36,5 +36,5 @@
       START
       # Given set of array of integers
       PROGRAM array
-        RETURN new array of every other element
+        RETURN new array of every other <element></element>
       END
